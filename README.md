@@ -1,6 +1,6 @@
-# Figma Design Task Exports
+# Figma Design Tasks
 
-This repository contains exported PDF versions of various Figma design tasks. Each file represents a unique design concept created in Figma and exported for review and sharing purposes.
+This repository contains exported PDF versions of various Figma design tasks. Each file represents a unique design concept created in Figma.
 
 ## 📁 Contents
 
